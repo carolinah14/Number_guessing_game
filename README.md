@@ -3,25 +3,25 @@ A Python console-based number guessing game where the user attempts to guess a r
 
 # ▶️ How to Run
 
-Make sure you have Python installed on your computer.
+1. Make sure you have Python installed on your computer.
 
-Download or clone this repository.
+2. Download or clone this repository.
 
-Ensure both files are in the same folder:
+3. Ensure both files are in the same folder:
 
 number_guessing_game.py
 
 art_game.py
 
-Open a terminal (or your preferred Python IDE).
+4. Open a terminal (or your preferred Python IDE).
 
-Navigate to the folder containing the files.
+5. Navigate to the folder containing the files.
 
-Run the script using:
+6. Run the script using:
 
 python number_guessing_game.py
 
-Follow the on-screen prompts to play the game.
+7. Follow the on-screen prompts to play the game.
 
 # 🧠 Concepts Practiced
 
@@ -29,7 +29,7 @@ Follow the on-screen prompts to play the game.
 - Passing parameters instead of relying on global variables
 - Returning updated values from functions
 - Avoiding hidden dependencies
-- Loop control using while
+- Loop control using `while`
 - Conditional logic (win → lose → continue)
 - Managing program state with variables
 - Using dictionaries to store configuration values
