@@ -1,4 +1,4 @@
-# Number_guessing_game
+# Number_guessing_game (Python)
 A Python console-based number guessing game where the user attempts to guess a randomly generated number between 1 and 100. The player selects a difficulty level which determines the number of attempts available. The program provides feedback after each guess and ends when the correct number is guessed or attempts run out.
 
 # ▶️ How to Run
