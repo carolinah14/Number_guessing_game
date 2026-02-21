@@ -10,6 +10,7 @@ A Python console-based number guessing game where the user attempts to guess a r
 3. Ensure both files are in the same folder:
 
     number_guessing_game.py
+   
     art_game.py
 
 5. Open a terminal (or your preferred Python IDE).
